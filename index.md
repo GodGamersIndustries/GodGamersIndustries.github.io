@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Godgamers Industries
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
@@ -8,6 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Godgamers Industries 
+## The management consultant company.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We strive to 
