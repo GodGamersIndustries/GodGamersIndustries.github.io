@@ -1,7 +1,7 @@
 ---
-title: God Gamers Industries
+title: GodGamers Industries
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: GodGamers Industries Aceninja is a consultancy company based in Singapore. We work to provide business and educational solutions that are effective and value for money.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
