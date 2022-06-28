@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The Team 
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Founded in 202, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. 
+
+We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that grow and develop with excellence.
