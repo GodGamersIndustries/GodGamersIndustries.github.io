@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Scratchbac Telebot",
+    "description": "Provided IoT services for monitoring and controlling growht paramenters in their in-house smart mushroom farming system.",
+    "image": {
+      "url": "images/projects/Singapore_Polytechnic.png",
+      "width": 800,
+      "height": 229
+    },
+    "tech": "sp"
+  },
+  {
+    "title": "Scratchbac App",
+    "description": "Provided web development and consultancy services for a SME500 and Entrepreneur100 consultancy company.",
+    "image": {
+      "url": "images/projects/aceninja-logo-black.svg",
+      "width": 80,
+      "height": 80
+    },
+    "tech": "aceninja"
+  },
+  {
+    "title": "Education Operations Dashboard",
+    "description": "Provided web development and consultancy services for a SME500 and Entrepreneur100 consultancy company.",
+    "image": {
+      "url": "images/projects/aceninja-logo-black.svg",
+      "width": 80,
+      "height": 80
+    },
+    "tech": "aceninja"
+  }
+
+]
