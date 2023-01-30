@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Services that grow with your beeznezz
 
 Lorem ipsum dolor sit deeznuts
