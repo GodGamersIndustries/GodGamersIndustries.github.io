@@ -5,8 +5,8 @@ description: Page summarizing the past projects of co-founders
 bodyClass: page-past_projects
 ---
 
-# Meet The Team 
 
-Founded in 202, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. 
+Despite being a small team of 3, each one of us in Deus Ludum Industries bring in years of experience, each in our niche areas. Projects below showcase the extensiveness of our experience, prior to DLI.
+---
+<!-- --- makes a good linebreak -->
 
-We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that grow and develop with excellence.

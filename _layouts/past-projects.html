@@ -6,26 +6,30 @@ bodyClass: "page-past_projects"
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-10">
       <div class="team team-single">
         <h1 class="title">{{page.title}}</h1>
-        <div class="content">
-          {{content}}
-          <p>lorem ipsum</p>
-        </div>
-        {% for i in site.data.past-projects %}
-        <h1>{{i.title}}</h1>
-        <h1>{{i.image.width}}</h1>
-        {% endfor %}
-        <p>sampletext</p>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="..." alt="Card image cap">
+        <div class="content">{{content}}</div>
+        <div class="card-deck">
+          {% for i in site.data.past-projects %}
+          <div class="card" style="width: 18rem">
+            <img
+              class="card-img-top"
+              src="{{ i.image.url | relative_url }}"
+              alt="Card image cap"
+            />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">{{ i.title }}</h5>
+              <p class="card-text">{{ i.description }}</p>
+              
             </div>
+            <div class="card-footer">
+                <!-- linked to contact page for now -->
+                <a href="/contact" class="btn btn-primary ">Read More</a>
+              </div>
           </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
