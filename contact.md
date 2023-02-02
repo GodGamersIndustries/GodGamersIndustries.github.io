@@ -9,9 +9,9 @@ Have questions or need a personal service? Give us a call or fill out our contac
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Tuesday   | 08:30am - 5:00pm |
+| Wednesday | 08:30am - 5:00pm |
+| Thursday  | 08:30am - 5:00pm |
+| Friday    | 08:30am - 5:00pm |
+| Saturday  | 10:00am - 4:00pm |
 | Saturday  | Closed          |

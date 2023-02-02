@@ -11,7 +11,7 @@
   },
   {
     "title": "Scratchbac App",
-    "description": "Prone to Telegram's occasional outages and glitches, Scratchbac eventually built their own internal system from the ground up to improve scalability and user experience. Funded sucessfully on Kickstarter, and generated internaional media attention.",
+    "description": "Scratchbac eventually built their own internal system from the ground up to improve scalability and user experience. Funded sucessfully on Kickstarter, and generated international media attention.",
     "image": {
       "url": "images/past-projects/sb-app.png",
       "width": 80,
@@ -23,7 +23,7 @@
     "title": "Timetable Dashboard",
     "description": "Outdated and depracated technologies lead governments to unoptimized timetables and improper delegation of officers. A dynamic and modern dashboard - with a myriad of features, was the perfect solution that to mitigate these issues, saving millions of dollars annually.",
     "image": {
-      "url": "images/past-projects/IMG_5095.jpg",
+      "url": "images/past-projects/grafana.jpeg",
       "width": 80,
       "height": 80
     },
