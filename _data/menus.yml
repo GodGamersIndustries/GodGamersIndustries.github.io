@@ -11,14 +11,21 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 5
+  - name: "Code of Ethics"
+    url: "/ethics"
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "Code of Ethics"
+    url: "/ethics"
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 7
+  

@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your beeznezz
+# Work-in-Progress
 
-Lorem ipsum dolor sit deeznuts
+Sorry mate current contracts are more important right now, give me a weekend
