@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Birth and Growth of our Company"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -55,7 +55,7 @@ en: &DEFAULT_EN
         desc: "We wanted to get serious and create products for companies and so an agency is born."
         image: assets/img/timeline/2.png
         alt:
-      - title: "Title"
+      - title: "Our Growth"
         year: "Present day"
         desc: "We are working with educational institutions, startups and SMEs. We have built a dedicated team to serve our customers and are looking to improve ourselves continuously!"
         image: assets/img/timeline/3.png
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Founded in 2022, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that grow and develop with excellence."
+    body: "Founded in 2022, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that provide lasting value while being developed in the spirit of excellence."
     section: about
 
   clients:
