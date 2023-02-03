@@ -11,29 +11,30 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Worldclass Consultancy
+    text: Idea. Profit. Future.
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We are constantly growing and improving our services - below represents the solutions that we currently provide. Each service is backed by testimonials from previous customers."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "SOFTWARE DEVELOPMENT"
+        desc: "We provide quality software solutions for platforms on mobile platforms such as Android and Ios, IOT devices and wearable devices such as watches, belts and more!"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "OUTSOURCING"
+        desc: "We provide businesses with quality staff on a freelancer or full time basis to achieve their business goals."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      # - title: "[BUSINESS CASE PROGRAMME](https://www.google.com)"
+      - title: "BUSINESS CASE PROGRAMME"
+        desc: "With a research team and business consultants from the world’s top universities and in emerging markets; you can be sure you are getting the best. Our research team publishes unique insights on successful companies throughout the world."
         icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "We are constantly innovating to provide the market with value for money solutions. Our customers include small and medium-sized businesses to multinational corporations; from government bodies to non-profit organisations. Aceninja provides a range of products that are bespoke and tailor made."
     section: portfolio
     closebutton: "Close Project"
 
@@ -45,93 +46,88 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        year: "2019"
+        desc: "Meeting in SUTD, we have have been building software products together for fun as part of our projects/"
+        image: assets/img/timeline/1.png
         alt:
       - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        year: "2021"
+        desc: "We wanted to get serious and create products for companies and so an agency is born."
+        image: assets/img/timeline/2.png
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
       - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        year: "Present day"
+        desc: "We are working with educational institutions, startups and SMEs. We have built a dedicated team to serve our customers and are looking to improve ourselves continuously!"
+        image: assets/img/timeline/3.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Join<br>us<br>today!"
 
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Founded in 2022, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that grow and develop with excellence."
     section: about
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 200px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://aceninja.sg
+        logo: assets/img/clients/aceninja.png
+      - title: "Singapore polytechnic"
+        url: https://sp.edu.sg
+        logo: assets/img/clients/sp-logo.png
+      - title: "Singapore University of Technology and Design"
+        url: https://sutd.edu.sg
+        logo: assets/img/clients/sutd.png
+      - title: "Scratchbac"
+        url: https://scratchbac.com
+        logo: assets/img/clients/sb.png
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "OUR FOUNDERS"
+    # text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: It started with the 3 of us. We are dedicated to build GodGamers Industries into a global, next generation consultancy organization that serves individuals and businesses in the marketing, education and research fields.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Glen Chen"
+        role: "Expert Designer & CEO"
+        image: assets/img/team/glen-chen.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
+      - name: "Princeton Poh"
+        role: "Program Manager & COO"
+        image: assets/img/team/princeton-poh.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
+      - name: "A.Vivekbala"
+        role: "Tech Expert & CIO"
+        image: assets/img/team/avivekbala.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email us or call +65 8101 5867"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -146,17 +142,18 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+    # TODO: add socials
+    # social:
+    #   - url: https://twitter.com
+    #     icon: "fab fa-twitter"
+    #   - url: https://facebook.com
+    #     icon: "fab fa-facebook-f"
+    #   - url: https://linkedin.com
+    #     icon: "fab fa-linkedin-in"
+    #   - url: https://github.com/raviriley/agency-jekyll-theme
+    #     icon: "fab fa-github"
+    #   - url: https://instagram.com
+    #     icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
