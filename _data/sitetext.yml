@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Our Humble Beginnings "
         year: "2019"
         desc: "Meeting in SUTD, we have have been building software products together for fun as part of our projects/"
         image: assets/img/timeline/1.png
