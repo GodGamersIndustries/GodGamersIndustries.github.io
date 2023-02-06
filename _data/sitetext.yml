@@ -34,7 +34,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "We are constantly innovating to provide the market with value for money solutions. Our customers include small and medium-sized businesses to multinational corporations; from government bodies to non-profit organisations. Godgamers provides a range of products that are bespoke and tailor made."
+    text: "We are constantly innovating to provide the market with value for money solutions. Our customers include small and medium-sized businesses to multinational corporations; from government bodies to non-profit organisations. Deus Ludum provides a range of products that are bespoke and tailor made."
     section: portfolio
     closebutton: "Close Project"
 
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Founded in 2022, GodGamers Industries strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that provide lasting value while being developed in the spirit of excellence."
+    body: "Founded in 2022, Deus Ludum strives to be a leading consultancy firm in Singapore. We work to provide business and educational solutions that are effective and value for money. We strive to be a trusted partner for government bodies, corporations, educational institutions, non-governmental organizations and religious groups to provide purpose-driven solutions and services that provide lasting value while being developed in the spirit of excellence."
     section: about
 
   clients:
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR FOUNDERS"
     # text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: It started with the 3 of us. We are dedicated to build GodGamers Industries into a global, next generation consultancy organization that serves individuals and businesses in the marketing, education and research fields.
+    subtext: It started with the 3 of us. We are dedicated to build Deus Ludum into a global, next generation consultancy organization that serves individuals and businesses in the marketing, education and research fields.
     section: team
     people:
       - name: "Glen Chen"
