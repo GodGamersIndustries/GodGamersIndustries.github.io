@@ -133,8 +133,9 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone: "Phone Number - Optional"
+    # phone-validation: "Please enter your phone number."
+    # dont really need comment out but yeah its optional, see contact.html
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
