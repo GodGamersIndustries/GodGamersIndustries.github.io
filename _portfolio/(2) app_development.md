@@ -19,9 +19,3 @@ Our team of experienced developers works closely with our clients to understand 
 We believe that successful mobile application development requires a collaborative approach. That's why we work closely with our clients throughout the development process to ensure that the final product meets their needs and exceeds their expectations. Our team is available to answer questions, provide updates, and offer guidance throughout the project, and we pride ourselves on our ability to communicate clearly and effectively with our clients.
 
 Whether you need a mobile application for Android, iOS, or both, we have the skills and experience to deliver outstanding results. Contact us today to learn more about how we can help you build a world-class mobile application for your business.
-
-{:.list-inline}
-
-- Date: January 2020
-- Client: Scratchbac
-- Category: Mobile development

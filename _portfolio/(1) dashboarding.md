@@ -5,7 +5,7 @@ caption:
   thumbnail: /assets/img/portfolio/grafana-thumbnail.jpeg
 
 title: Timetable dashboard
-subtitle: grafana
+subtitle: r programming/grafana/aws dashboard
 image: /assets/img/portfolio/grafana.jpeg
 alt: Shirts on a hanger
 ---
@@ -19,9 +19,3 @@ Throughout the development process, our team used industry best practices and cu
 Our team also provided ongoing support and maintenance to ensure that the client's software solution remained up-to-date and continued to meet their evolving needs. We pride ourselves on our ability to develop software solutions that are tailored to the unique needs of each of our clients, and we work closely with them to ensure that they are completely satisfied with the final product.
 
 If you're looking for a partner to help you develop a custom software solution for your IoT devices, we would be honored to work with you. Contact us today to learn more about our software development consulting services.
-
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration

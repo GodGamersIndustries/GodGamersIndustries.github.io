@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Automated Client Interactions
-subtitle: python
+subtitle: python/cron job/Machine learning
 image: /assets/img/portfolio/sb-telegram.jpeg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
@@ -22,10 +22,4 @@ Throughout the development process, our team provides regular updates and commun
 
 At Deus Ludum, we pride ourselves on our ability to develop automation solutions that are tailored to the unique needs of each of our clients, and we work closely with them to ensure that they are completely satisfied with the final product. If you're looking for a partner to help you automate your business processes, we would be honored to work with you. Contact us today to learn more about our automation services.
 
-optional info list (delete if not using):
-
-{:.list-inline} 
-
-- Date: June 2021
-- Client: BigBrain
-- Category: IOT event and timetable tracking
+<!-- {:.list-inline}  -->
