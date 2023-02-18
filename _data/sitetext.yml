@@ -18,19 +18,19 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "We are constantly growing and improving our services - below represents the solutions that we currently provide. Each service is backed by testimonials from previous customers."
+    text: "At Deus Ludum, we are committed to constantly growing and improving our services to meet the evolving needs of our clients. Below represents a snapshot of the solutions we currently provide, which are tailored to help businesses succeed in today's competitive market."
     section: services
     list:
       - title: "SOFTWARE DEVELOPMENT"
-        desc: "We provide quality software solutions for platforms on mobile platforms such as Android and Ios, IOT devices and wearable devices such as watches, belts and more!"
+        desc: "We provide comprehensive web development services that deliver exceptional digital experiences. Our expert team specializes in building responsive, user-friendly websites that are optimized for performance and security. From custom web applications to content management systems, we'll work with you to develop a solution that meets your unique needs and goals."
         icon: fas fa-laptop
+      - title: "BUSINESS CASE PROGRAMME"
+        desc: "Our business case program is designed to help businesses develop a compelling case for investment or growth. We work with you to refine your business model, conduct market and product research, and develop a comprehensive business plan that demonstrates your value proposition and growth potential. With our expert guidance, you'll be well-positioned to secure the funding you need to achieve your business goals."
+        icon: fab fa-markdown
       - title: "OUTSOURCING"
-        desc: "We provide businesses with quality staff on a freelancer or full time basis to achieve their business goals."
+        desc: "We provide reliable outsourcing services that help you import high-quality goods from China. We specialize in connecting you with top manufacturers and suppliers, giving you access to a wide range of products that meet your business needs and exceed expectations. From sourcing to logistics, we'll work with you every step of the way to ensure a seamless import process."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       # - title: "[BUSINESS CASE PROGRAMME](https://www.google.com)"
-      - title: "BUSINESS CASE PROGRAMME"
-        desc: "With a research team and business consultants from the world’s top universities and in emerging markets; you can be sure you are getting the best. Our research team publishes unique insights on successful companies throughout the world."
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
